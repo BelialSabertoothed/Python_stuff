@@ -1,0 +1,306 @@
+{
+    "books": [
+        {
+            "title": "The Silent Valley",
+            "author": "Mary Brown",
+            "isbn": "978-1028-5853-2"
+        },
+        {
+            "title": "Mysteries of the Cosmos",
+            "author": "Robert Lopez",
+            "isbn": "978-6782-6252-8"
+        },
+        {
+            "title": "Journey Through Time",
+            "author": "Patricia Moore",
+            "isbn": "978-2954-6542-8"
+        },
+        {
+            "title": "Echoes of the Past",
+            "author": "Jennifer Martin",
+            "isbn": "978-6994-6837-9"
+        },
+        {
+            "title": "Shadows in the Mirror",
+            "author": "Susan Thomas",
+            "isbn": "978-9110-7273-3"
+        },
+        {
+            "title": "Whispers of the Ocean",
+            "author": "Barbara Rodriguez",
+            "isbn": "978-5730-2615-4"
+        },
+        {
+            "title": "Lost in the City",
+            "author": "Susan Miller",
+            "isbn": "978-2768-1903-2"
+        },
+        {
+            "title": "Dreams of Tomorrow",
+            "author": "John Jones",
+            "isbn": "978-7135-6686-8"
+        },
+        {
+            "title": "Beyond the Horizon",
+            "author": "Sarah Martinez",
+            "isbn": "978-6331-1846-4"
+        },
+        {
+            "title": "Secrets of the Mind",
+            "author": "Sarah Williams",
+            "isbn": "978-2962-4135-0"
+        },
+        {
+            "title": "Tales of Adventure",
+            "author": "Barbara Smith",
+            "isbn": "978-2122-5474-2"
+        },
+        {
+            "title": "The Forgotten Island",
+            "author": "James Davis",
+            "isbn": "978-3078-9620-1"
+        },
+        {
+            "title": "Under the Stars",
+            "author": "Sarah Thomas",
+            "isbn": "978-9428-6322-9"
+        },
+        {
+            "title": "Paths Unseen",
+            "author": "Joseph Rodriguez",
+            "isbn": "978-3276-3908-4"
+        },
+        {
+            "title": "A Moment in History",
+            "author": "Elizabeth Smith",
+            "isbn": "978-9969-3296-5"
+        },
+        {
+            "title": "Voices from the Deep",
+            "author": "Jennifer Hernandez",
+            "isbn": "978-7410-1593-9"
+        },
+        {
+            "title": "The Last Frontier",
+            "author": "Robert Wilson",
+            "isbn": "978-3681-9235-2"
+        },
+        {
+            "title": "Cries of the Wild",
+            "author": "Elizabeth Rodriguez",
+            "isbn": "978-7431-2865-6"
+        },
+        {
+            "title": "In the Shadow of Giants",
+            "author": "Elizabeth Davis",
+            "isbn": "978-3512-9560-4"
+        },
+        {
+            "title": "Legends of the Ancients",
+            "author": "William Jackson",
+            "isbn": "978-3263-1273-8"
+        },
+        {
+            "title": "Fragments of Dreams",
+            "author": "William Taylor",
+            "isbn": "978-7411-6961-7"
+        },
+        {
+            "title": "The Labyrinth of Truth",
+            "author": "Jennifer Brown",
+            "isbn": "978-6989-4670-9"
+        },
+        {
+            "title": "Dances with Fire",
+            "author": "Barbara Williams",
+            "isbn": "978-3717-9162-8"
+        },
+        {
+            "title": "Spirits of the Forest",
+            "author": "Barbara Jones",
+            "isbn": "978-5794-4077-2"
+        },
+        {
+            "title": "The Invisible Maze",
+            "author": "Elizabeth Taylor",
+            "isbn": "978-2762-5174-0"
+        },
+        {
+            "title": "Echoes of the Future",
+            "author": "Sarah Anderson",
+            "isbn": "978-7876-8173-6"
+        },
+        {
+            "title": "Whirlwind of Fate",
+            "author": "Jennifer Rodriguez",
+            "isbn": "978-4561-2090-5"
+        },
+        {
+            "title": "Reflections of Eternity",
+            "author": "Linda Wilson",
+            "isbn": "978-5596-7459-5"
+        },
+        {
+            "title": "Windows to the Soul",
+            "author": "James Moore",
+            "isbn": "978-3462-4805-9"
+        },
+        {
+            "title": "Glimpses of Infinity",
+            "author": "Sarah Miller",
+            "isbn": "978-6356-9163-3"
+        }
+    ],
+    "magazines": [
+        {
+            "title": "Global Explorer",
+            "volume": 85,
+            "issue_number": 8
+        },
+        {
+            "title": "Tech Today",
+            "volume": 41,
+            "issue_number": 5
+        },
+        {
+            "title": "Modern Artist",
+            "volume": 52,
+            "issue_number": 3
+        },
+        {
+            "title": "Health & Wellness",
+            "volume": 54,
+            "issue_number": 10
+        },
+        {
+            "title": "Fashion Forward",
+            "volume": 95,
+            "issue_number": 10
+        },
+        {
+            "title": "Culinary World",
+            "volume": 75,
+            "issue_number": 9
+        },
+        {
+            "title": "Science Innovator",
+            "volume": 14,
+            "issue_number": 4
+        },
+        {
+            "title": "Traveler's Journal",
+            "volume": 41,
+            "issue_number": 8
+        },
+        {
+            "title": "Fitness Focus",
+            "volume": 21,
+            "issue_number": 11
+        },
+        {
+            "title": "Eco Warrior",
+            "volume": 96,
+            "issue_number": 9
+        },
+        {
+            "title": "Business Insights",
+            "volume": 9,
+            "issue_number": 7
+        },
+        {
+            "title": "Creative Minds",
+            "volume": 99,
+            "issue_number": 9
+        },
+        {
+            "title": "Music Pulse",
+            "volume": 25,
+            "issue_number": 10
+        },
+        {
+            "title": "Historical Review",
+            "volume": 70,
+            "issue_number": 12
+        },
+        {
+            "title": "Literary Digest",
+            "volume": 98,
+            "issue_number": 12
+        },
+        {
+            "title": "Cinema Scope",
+            "volume": 54,
+            "issue_number": 6
+        },
+        {
+            "title": "Sports Arena",
+            "volume": 25,
+            "issue_number": 8
+        },
+        {
+            "title": "Photography Life",
+            "volume": 98,
+            "issue_number": 3
+        },
+        {
+            "title": "Philosophy Now",
+            "volume": 63,
+            "issue_number": 5
+        },
+        {
+            "title": "Astronomy Today",
+            "volume": 33,
+            "issue_number": 8
+        },
+        {
+            "title": "World Politics",
+            "volume": 57,
+            "issue_number": 3
+        },
+        {
+            "title": "Automotive Trends",
+            "volume": 61,
+            "issue_number": 7
+        },
+        {
+            "title": "Gardening Guide",
+            "volume": 96,
+            "issue_number": 8
+        },
+        {
+            "title": "Pet Care",
+            "volume": 54,
+            "issue_number": 10
+        },
+        {
+            "title": "Parenting Tips",
+            "volume": 24,
+            "issue_number": 4
+        },
+        {
+            "title": "Education Matters",
+            "volume": 14,
+            "issue_number": 11
+        },
+        {
+            "title": "Digital World",
+            "volume": 56,
+            "issue_number": 7
+        },
+        {
+            "title": "Artisan Craft",
+            "volume": 58,
+            "issue_number": 2
+        },
+        {
+            "title": "Nature's Wonders",
+            "volume": 57,
+            "issue_number": 1
+        },
+        {
+            "title": "Cultural Perspectives",
+            "volume": 29,
+            "issue_number": 1
+        }
+    ]
+}
